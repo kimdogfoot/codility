@@ -1,6 +1,8 @@
 # codility
 https://app.codility.com/programmers/lessons/
 
+코딜리티 사이트에 있는 레슨. Solution 은 lesson 폴더 아래에..
+
 
 ## lesson
 
@@ -28,3 +30,9 @@ PermMissingElem 문제가 있는데 이걸 왜..?
 
 ### [FrogRiverOne](https://app.codility.com/programmers/lessons/4-counting_elements/frog_river_one/)
 흠.. 잘못 풀 면 NxN 복잡도가 나올 수 있는건가...
+
+### [MissingInteger](https://app.codility.com/programmers/lessons/4-counting_elements/missing_integer/)
+문제는 PermMissingElem 이랑 또 겹치는데.. 내가 푸는 방식이 이상한건가.. 그나저나 console.error 하나 넣었다고 타임아웃 떨어짐.. 
+
+### [MaxCounters](https://app.codility.com/programmers/lessons/4-counting_elements/max_counters/)
+쉬움. 그래도 복잡도를 생각해보게 만드는 문제이긴 함.
