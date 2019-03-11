@@ -36,3 +36,9 @@ PermMissingElem 문제가 있는데 이걸 왜..?
 
 ### [MaxCounters](https://app.codility.com/programmers/lessons/4-counting_elements/max_counters/)
 쉬움. 그래도 복잡도를 생각해보게 만드는 문제이긴 함.
+
+### [PassingCars](https://app.codility.com/programmers/lessons/5-prefix_sums/passing_cars/)
+상동
+
+### [GenomicRangeQuery](https://app.codility.com/programmers/lessons/5-prefix_sums/genomic_range_query/)
+벌써 fail 이라니.. 제한 시간내에는 답 못찾음.. ㅠㅠ 그래도 찾았다는 것에 위안을.. ㅠㅠ
