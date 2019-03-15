@@ -42,3 +42,6 @@ PermMissingElem 문제가 있는데 이걸 왜..?
 
 ### [GenomicRangeQuery](https://app.codility.com/programmers/lessons/5-prefix_sums/genomic_range_query/)
 벌써 fail 이라니.. 제한 시간내에는 답 못찾음.. ㅠㅠ 그래도 찾았다는 것에 위안을.. ㅠㅠ
+
+### [MinAvgTwoSlice](https://app.codility.com/demo/results/trainingNX6QGN-3WD/)
+시간내에 풀긴 했지만, 다양한 테스트 케이스를 제공해주니 풀 수 있었음..
