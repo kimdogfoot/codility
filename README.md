@@ -45,3 +45,6 @@ PermMissingElem 문제가 있는데 이걸 왜..?
 
 ### [MinAvgTwoSlice](https://app.codility.com/demo/results/trainingNX6QGN-3WD/)
 시간내에 풀긴 했지만, 다양한 테스트 케이스를 제공해주니 풀 수 있었음..
+
+### [CountDiv](https://app.codility.com/programmers/lessons/5-prefix_sums/count_div/)
+이 문제를 풀고서야 알고리즘 문제는 내가 푼 것이 답인지 아닌지 모르는 상황에서 제출하고 그게 결과가 된다는 것을 알게 됨..
