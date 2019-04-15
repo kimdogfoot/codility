@@ -55,6 +55,6 @@ PermMissingElem 문제가 있는데 이걸 왜..?
 ### [Distinct](https://app.codility.com/programmers/lessons/6-sorting/distinct/)
 뭐지.. 왜 또 갑자기 이런 문제가.. - lesson number 가 증가한다고 꼭 어려운 것만 있는 것은 아닌듯
 
-### [MaxProductOfThree]https://app.codility.com/programmers/lessons/6-sorting/max_product_of_three/
+### [MaxProductOfThree](https://app.codility.com/programmers/lessons/6-sorting/max_product_of_three/)
 어렵진 않았지만... 뭔가 더러워..
 
